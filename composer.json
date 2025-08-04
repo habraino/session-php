@@ -1,0 +1,18 @@
+{
+    "name": "tecnisys/projeto",
+    "description": "Projeto Teste com Token",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Habraino de Deus",
+            "email": "habraino.deus@tecnisys.st"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
